@@ -1,0 +1,201 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*header style start*/
+.header_section{
+    background-image: url("./picture/header.png");
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    color: #fff;
+}
+.header_section .left{
+    float: left;
+    width: 50%;
+}
+.header_content{
+    padding: 250px 120px;
+}
+/*button style start*/
+.button_style{
+    font-size: 19px;
+    font-weight: 700;
+    background-color: rgb(223, 159, 82);
+    border: 0;
+    margin-top: 40px;
+    padding: 15px 60px;
+/*button style End*/
+}
+.header_content h1{
+    font-size: 70px;
+}
+.header_content p{
+    margin-top: 21px;
+    font-size: 30px;
+}
+/*header style End*/
+
+/* Registration style start*/
+.Registration_card{
+    background-color: rgba(0, 0, 0, 0.925);
+    width: 1000px;
+    height: 650px;
+    float: right;
+    color: rgba(255, 255, 255, 0.952);
+    padding: 50px 0 0 30px;
+    text-align: center;
+}
+.Registration_card h2{
+    font-size: 50px;
+    margin-top: 150px;
+}
+.Registration_card p{
+    margin-top: 28px;
+    font-size: 20px;
+    line-height: 28px;
+}
+.studio_card{
+    background-color: rgb(56, 54, 54);
+    height: 650px;
+    padding: 50px 0 0 30px;
+    color: white;
+    text-align: center;
+}
+.studio_card h3{
+    font-size: 50px;
+    margin-top: 150px;
+}
+.studio_card p{
+    margin-top: 28px;
+    font-size: 20px;
+    line-height: 28px;
+}
+/* Registration style End*/
+
+/* Event style Start*/
+.Event_section{
+    height: 800px;
+    background-color: rgb(177, 171, 171);
+}
+.Event_pic{
+    float: right;
+}
+.Event_pic img{
+    height: 800px;
+    
+}
+.Event_content h2{
+    font-size: 45px;
+    
+    
+}
+.Event_content p{
+    margin-top: 40px;
+    font-size: 25px;
+    line-height: 30px;
+}
+.Event_card {
+    margin-left: 100px;
+    padding: 100px 0 30px;
+    
+}
+/* Event style End*/
+
+/* Membership style start*/
+.Membership_section{
+    height: 800px;
+    background-color: rgb(27, 26, 26);
+    color: #fff;
+   
+}
+.Membership_pic{
+    float: left;
+}
+.Membership_pic img{
+    height: 800px;
+    
+}
+
+.Membership_content h2{
+    font-size: 45px;
+    margin-top: 50px;
+}
+.Membership_content p{
+    font-size: 20px;
+    margin-top: 20px;
+    line-height: 35px;
+}
+.Membership_content{
+ float: right;
+ padding: 120px 0 20px;
+ margin-right: 220px;
+}
+/* Membership style End*/
+
+.From_section{
+    background-image: url("./picture/From.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 850px;
+    width: 100%;
+    border-bottom: 100px solid rgb(58, 56, 56);
+    
+    
+}
+
+ .From_card{
+    background-color: rgb(236, 230, 230);
+    width: 700px;
+    height: 550px;
+    padding: 80px;
+    margin: 300px 0 0 250px;
+    position: absolute;
+    
+    
+ }
+ .from_content h2{
+     margin-top: 30px;
+     font-size: 45px;
+ }
+ .from_content p{
+     margin-top: 30px;
+     font-size: 20px;
+     line-height: 30px;
+ }
+ .from_content h3{
+     margin-top: 30px;
+     font-size: 30px;
+ }
+/* From style End*/
+/* footer style start*/
+.footer_content{
+    background-color: rgb(35, 36, 34);
+    border-top: 1px solid #fff;
+    height: 650px;
+
+    color: rgb(238, 236, 236);
+    text-align: center;
+}
+.title h1{
+    font-size: 45px;
+    margin-top: 160px;
+}
+.title p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.email_fild{
+    background-color:  #0000;
+    color: #fff;
+}
+.footer_content form input{
+    padding: 18px;
+    width: 500px;
+    margin-right: 20px;
+}
+/* footer style End*/
+/*sdbijoy68@gmail.com*/
